@@ -9,5 +9,5 @@ Skills: Cyber Security | CEH | Pentesting | Soc | CLOUD| SQL | LINUX |
 - ⚡ Fun fact: GOAT in coding on 30th Feb 
 
 
-[<img src='https://github.com/castorio32/Castorio/blob/main/1298743_github_git_logo_social_icon.svg'>](https://github.com/https://github.com/castorio32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/bhargav-rohit-dhawala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_castorio/)  [<img src= 'https://github.com/castorio32/Castorio/blob/main/7101527_gmail_email_mail_icon.svg'>](bhargav.dhawala@gmail.com)
+[<img src='https://github.com/castorio32/Castorio/blob/main/1298743_github_git_logo_social_icon.png'>](https://github.com/https://github.com/castorio32)  [<img src='https://github.com/castorio32/Castorio/blob/main/3057688_in_linked_media_social_icon.png'>](https://www.linkedin.com/in/www.linkedin.com/in/bhargav-rohit-dhawala/)  [<img src='https://github.com/castorio32/Castorio/blob/main/1298747_instagram_brand_logo_social%20media_icon.png'>](https://www.instagram.com/_castorio/)  [<img src= 'https://github.com/castorio32/Castorio/blob/main/7101527_gmail_email_mail_icon.svg'>](bhargav.dhawala@gmail.com)
 
