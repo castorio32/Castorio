@@ -3,7 +3,7 @@ A software engineer with 1 year and 4 months of experience, having worked in the
 
 Skills: Cyber Security | CEH | Pentesting | Soc | CLOUD| SQL | LINUX 
 
-Tools: <img src='https://files.svgcdn.io/simple-icons/metasploit.svg' height='40'> <img src='https://files.svgcdn.io/file-icons/nmap.svg' height='40'> <img src='https://files.svgcdn.io/simple-icons/wireshark.svg' height='40'> <img src="/img/logo_ha_new.svg" class="logo" alt="Logo">
+Tools: <img src='https://files.svgcdn.io/simple-icons/metasploit.svg' height='40'> <img src='https://files.svgcdn.io/file-icons/nmap.svg' height='40'> <img src='https://files.svgcdn.io/simple-icons/wireshark.svg' height='40'> <img src="https://github.com/castorio32/Castorio/blob/main/logo_ha_new.svg" class="logo" alt="Logo">
 
 - 🔭 I’m currently working on ethical hacking skills 
 - 🌱 I’m currently learning penetration testing 
