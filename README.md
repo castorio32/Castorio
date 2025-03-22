@@ -13,9 +13,29 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 - 📫 How to reach me: bhargav.dhawala@gmail.com 
 - ⚡ Fun fact: Learnt coding on 30th Feb 
 
-### Experience
+###   Experience
+####  1. Cognizant Technology Solution 
+-  Software Engineer
+   -  Successfully completed the internship by clearing a technical assessment on technologies namely HTML, CSS, JavaScript, Bootstrap, Python, PL/SQL,.NET, Cloud, Git.
+   -  Being full-time **SE**, I developed a deep understanding in health care insurance, claims processing, and HIPPA.
+   -  Gained extensive experience working in the healthcare insurance domain, leveraging SQL-PL/SQL to extract,manipulate,and report output of data.
+#### 2. Prodevans Technologies
+- Cloud Internship.
+  - Received comprehensive training on AWS, Python and Red Hat Linux System Administration demonstrating comprehensive knowledge and practical skills in RHCSA.
+  - Proficient in performing common system administration tasks, including user and group management, file system management, and working with CLI.
+  - Proficient in creating and managing EC2 (Elastic Compute Cloud) instances, enabling scalable and flexible virtual server deployments.
+  - Played a key role in managing team interactions and facilitated productive meetings for smooth project delivery.
+  - Presented project findings w and outcomes to stakeholders, demonstrating the successful extraction.
+#### 3. IIT Bombay x (Verzeo Edu)
+- Internship (Microsoft certified)
+  - Completed comprehensive training on Certified. Ability to work independently and collaboratively in a team
+performed security scans to refine penetration testing results.
+• Prioritized vulnerability analysis tasks while balancing hands-on penetration testing projects.
+• Prepared detailed VAPT reports, ensuring findings were clearly documented for clients.
+  
 
 ### Certification
+
 <img src='https://github.com/castorio32/Castorio/blob/main/CEH_2E345519D3F7.png' height='70'>
 <img src='https://github.com/castorio32/Castorio/blob/main/az-900.png' height='70'>
 
