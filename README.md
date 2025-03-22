@@ -3,7 +3,7 @@ A software engineer with 1 year and 4 months of experience, having worked in the
 
 Skills: Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Cloud,SQL,LINUX 
 
-Tools: <img src='https://files.svgcdn.io/simple-icons/metasploit.svg' height='40'> <img src='https://files.svgcdn.io/file-icons/nmap.svg' height='40'> <img src='https://files.svgcdn.io/simple-icons/wireshark.svg' height='40'> <img src="https://github.com/castorio32/Castorio/blob/main/logo_ha_new.svg" class="logo" alt="Logo" height='40'> <img src='https://files.svgcdn.io/simple-icons/burpsuite.svg' height='40'> <img src='https://files.svgcdn.io/simple-icons/virustotal.svg' height='40'>
+Tools: <img src='https://files.svgcdn.io/simple-icons/metasploit.svg' height='40'> <img src='https://files.svgcdn.io/file-icons/nmap.svg' height='40'> <img src='https://files.svgcdn.io/simple-icons/wireshark.svg' height='40'> <img src="https://github.com/castorio32/Castorio/blob/main/logo_ha_new.svg" class="logo" alt="Logo" height='40'> <img src='https://files.svgcdn.io/simple-icons/virustotal.svg' height='40'> <a href='https://openvas.org/index.html'><img src='https://files.svgcdn.io/simple-icons/burpsuite.svg' height='40'> <img src='https://github.com/castorio32/Castorio/blob/main/inmenulogo.png' height='40'></a>
 
 - 🔭 I’m currently working on ethical hacking skills 
 - 🌱 I’m currently learning penetration testing 
