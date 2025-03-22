@@ -8,7 +8,7 @@ Skills: Cyber Security | CEH | Pentesting | Soc | CLOUD| SQL | LINUX |
 - 📫 How to reach me: bhargav.dhawala@gmail.com 
 - ⚡ Fun fact: GOAT in coding on 30th Feb 
 
-
+<div background=='white'>
 [<img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>](https://github.com/https://github.com/castorio32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/bhargav-rohit-dhawala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_castorio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](bhargav.dhawala@gmail.com)  
-
+</div>
 
